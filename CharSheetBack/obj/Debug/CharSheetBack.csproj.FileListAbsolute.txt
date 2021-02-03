@@ -1,0 +1,7 @@
+C:\Users\rogot\source\repos\CharSheetBack\CharSheetBack\obj\Debug\CharSheetBack.csprojAssemblyReference.cache
+C:\Users\rogot\source\repos\CharSheetBack\CharSheetBack\obj\Debug\CharSheetBack.csproj.CoreCompileInputs.cache
+C:\Users\rogot\source\repos\CharSheetBack\CharSheetBack\bin\Debug\CharSheetBack.exe.config
+C:\Users\rogot\source\repos\CharSheetBack\CharSheetBack\bin\Debug\CharSheetBack.exe
+C:\Users\rogot\source\repos\CharSheetBack\CharSheetBack\bin\Debug\CharSheetBack.pdb
+C:\Users\rogot\source\repos\CharSheetBack\CharSheetBack\obj\Debug\CharSheetBack.exe
+C:\Users\rogot\source\repos\CharSheetBack\CharSheetBack\obj\Debug\CharSheetBack.pdb
